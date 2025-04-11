@@ -10,7 +10,7 @@ fun findK(number: Int): Int {
     return k
 }
 
-fun main() {
-    val number = 10
-    println("so K= ${findK(number)}")
-}
+//fun main() {
+//    val number = 10
+//    println("so K= ${findK(number)}")
+//}
